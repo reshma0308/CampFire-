@@ -23,7 +23,7 @@ Logged-in users can submit reviews on campgrounds to share their experiences.
 Here’s a look at the user interface of the project:
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./ss/ss_home_page.png)
 
 ## 🛠️ Tech Stack
 

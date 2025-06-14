@@ -16,3 +16,18 @@ Authenticated users can add new campgrounds with details and optional images.
 
 <li><I>Review System</I>:
 Logged-in users can submit reviews on campgrounds to share their experiences.
+
+##
+## 📸 UI Preview
+
+Here’s a look at the user interface of the project:
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript (EJS)
+- Backend: Node.js, Express.js
+- UI: Clean, responsive layout with toggled login/register
+

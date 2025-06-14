@@ -1,0 +1,20 @@
+
+# Node modules (always ignore)
+node_modules/
+
+# Environment variables (NEVER push .env)
+.env
+
+# Uploaded files (optional if sensitive)
+uploads/
+
+#cloud
+cloudinary/
+
+# OS or editor-specific files
+.DS_Store
+.vscode/
+
+# Backup or unused files
+Seed_backup/
+

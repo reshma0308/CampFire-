@@ -1,7 +1,9 @@
 # The CampFire
 <h2>Project Overview – <I>The Campfire Circle</I></h2>
 <br>
-The Campfire Circle is a full-stack web application that allows users to explore, share, and review campgrounds from different locations. The project is designed to serve as a community platform for camping enthusiasts to connect, discover hidden outdoor spots, and exchange real experiences.
+The Campfire Circle is a full-stack web application that allows users to explore, share, and review campgrounds from different locations. The project is designed to serve as a community platform for camping enthusiasts to connect, discover hidden outdoor spots, and exchange real experiences.<br>
+
+##
 
 <li><I>User Authentication</I>: 
 Users can register and log in with their credentials. Authenticated users gain access to campground creation and reviewing functionalities.
